@@ -1,2 +1,2 @@
-# todo-app
+# TodoApp
 Created with CodeSandbox
